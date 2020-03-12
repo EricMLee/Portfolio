@@ -145,6 +145,10 @@ button.more{
     display: block;
     margin: auto;
 }
+button.more a{
+    text-decoration: none;
+    color:white;
+}
 
 div.icon{
     width: 100%;
