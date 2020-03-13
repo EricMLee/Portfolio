@@ -4,7 +4,7 @@ nav, header, footer {
 }
 
 body{
-    background: purple;
+    background: url(background5.jpg);
     background-attachment: fixed;
     background-size: cover;
     line-height: 1;
