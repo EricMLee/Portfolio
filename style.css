@@ -4,7 +4,7 @@ nav, header, footer {
 }
 
 body{
-    background: url(background.jfif);
+    background: rgb(247, 248, 219);
     background-size: cover;
     line-height: 1;
     margin: 0;
